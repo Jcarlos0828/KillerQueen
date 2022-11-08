@@ -1,3 +1,5 @@
+#### Compilers project forked from my classmate and teammate Ale. Garcia. For more details related to contributions please visit the project in her profile
+
 # Killer Queen
 Repo para el proyecto final de la clase de Diseño de Compiladores.
 
